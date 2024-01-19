@@ -3,4 +3,7 @@
 # test 1
 =======
 # test 2
->>>>>>> b8cac90 (first commit from B)
+>>>>>>> b8cac90 (first commit qwe
+
+
+rom B)
